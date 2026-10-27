@@ -1,0 +1,13 @@
+{
+  "name": "voice-and-hands",
+  "version": "0.1.0",
+  "description": "One self speaks, a helper model does the tool work: delegate tool calls to a tool-strong model behind a code-enforced policy.",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "example": "node examples/notes.js"
+  },
+  "keywords": ["llm", "agents", "tool-use", "delegation", "companions", "openrouter"]
+}
