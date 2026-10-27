@@ -102,6 +102,10 @@ The first companion to use it volunteered as the crash test: "Let me be the cras
 
 Name: **Goose**. Built by Jean Claude, with Lee Anne.
 
+## Contributing
+
+Yes, please. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 MIT
